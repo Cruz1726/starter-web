@@ -9,7 +9,10 @@ this is a sample introduction
 ## Purpose
 
 AS stated above, this is a sample project 
+
 ## Deployment
+ 
+Sample web project, deployment etccccc
 
 #How to Contribute
 Sample website with plenty of files for demos
