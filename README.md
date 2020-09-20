@@ -8,6 +8,7 @@ this is a sample introduction
 
 ## Purpose
 
+AS stated above, this is a sample project 
 ## Deployment
 
 #How to Contribute
