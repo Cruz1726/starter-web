@@ -16,3 +16,7 @@ Sample web project, deployment etccccc
 
 #How to Contribute
 Sample website with plenty of files for demos
+
+### Copyright
+
+2020 git.training.
