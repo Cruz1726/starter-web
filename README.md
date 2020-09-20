@@ -15,7 +15,7 @@ AS stated above, this is a sample project
 Sample web project, deployment etccccc
 
 #How to Contribute
-Sample website with plenty of files for demos
+Please fork this repository and then issue pull  request for review.
 
 ### Copyright
 
