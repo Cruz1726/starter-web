@@ -1,7 +1,9 @@
 # Starter Web Project
 
 This is a simple websiter project showing how to use Git and Github together.
-it really hurtzzzzzzz
+it really hurtzzzzzzz,
+more changes from myfeature branch too
+
 
 ##Introduction 
 
