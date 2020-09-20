@@ -2,7 +2,7 @@
 
 This is a simple websiter project showing how to use Git and Github together.
 it really hurtzzzzzzz,
-more changes from myfeature branch too
+UPDATING FOR EMERGENCY FIX AFTER STASH
 
 
 ##Introduction 
